@@ -20,5 +20,5 @@ function getBurritos(qty: number) {
   return burritoBox.map(burritoSlot => "🌯")
 }
 
-getBurritos(999);  
+getBurritos(999); // for everyone
 ```
