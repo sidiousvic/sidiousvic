@@ -16,7 +16,7 @@
  / / @sidiousvic \
  */  
 
-function getBurritos(qty: number) {
+function getBurritos(qty) {
   let burritoBox = [...Array(qty)];
   return burritoBox.map(burritoSlot => "🌯");
 }
