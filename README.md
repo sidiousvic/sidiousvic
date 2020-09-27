@@ -18,7 +18,7 @@
 
 function getBurritos(qty: number) {
   let burritoBox = [...Array(qty)];
-  return burritoBox.map(burritoSlot => "🌯")
+  return burritoBox.map(burritoSlot => "🌯");
 }
 
 getBurritos(999); // for everyone
