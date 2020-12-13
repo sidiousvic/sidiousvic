@@ -2,7 +2,7 @@
 /*
  * @alias Vic
  * @name Victor René Molina Rodríguez
- * @type Web engineer
+ * @types [www engineer, doom rocker, graphics punk]
  * @www sidiousvic.dev
  * @requires 🍕
  
