@@ -3,10 +3,10 @@
  * @alias Vic
  * @name Victor René Molina Rodríguez
  * @types [www engineer, doom rocker, graphics punk]
- * @www sidiousvic.dev
+ * @www sidious.pizza
  * @requires 🍕
  
-     .-----.
+    🎉.-----.
     /  .----.\
    / /  _  _ \\  JUST DO SH*T.
    | | (🏀|🏀)   🔥🔥🔥🔥🔥🔥🔥
@@ -17,7 +17,7 @@
  */  
 
 function getBurritos(qty) {
-  let burritoBox = [...Array(qty)];
+  const burritoBox = [...Array(qty)];
   return burritoBox.map(burritoSlot => "🌯");
 }
 
