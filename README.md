@@ -2,7 +2,6 @@
 /*
  * @alias Vic
  * @name Victor René Molina Rodríguez
- * @types [programmer, doomrocker, graphics punk]
  * @requires 🍕
  
       .-----.
